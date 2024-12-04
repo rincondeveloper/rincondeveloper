@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏻‍💻 Studying Computer Science Engineering at the [University of Guadalajara](https://www.udg.mx/), México.
-
-🌟 I love solving problems with code, learning new technologies, and working on meaningful projects. I'm currently focused on improving my skills in software development and building a solid foundation in programming principles.
+##### 👨🏻‍💻 Studying Computer Science Engineering at the [University of Guadalajara](https://www.udg.mx/), México.
