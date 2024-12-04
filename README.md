@@ -1,4 +1,4 @@
-###💻 Aspiring Software Developer | Computer Science Student @ UDG CUCEI
+### 💻 Aspiring Software Developer | Computer Science Student @ UDG CUCEI
 
 <!--
 **rincondeveloper/rincondeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
