@@ -1,4 +1,4 @@
-### 💻 Aspiring Software Developer | Computer Science Student @ UDG CUCEI
+### Hello! 👋
 
 <!--
 **rincondeveloper/rincondeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Abraham, a passionate Computer Science Engineering Student from Guadalajara, Jalisco, Mexico. 🚀
+
+🌟 I love solving problems with code, learning new technologies, and working on meaningful projects. I'm currently focused on improving my skills in software development and building a solid foundation in programming principles.
