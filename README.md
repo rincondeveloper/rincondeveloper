@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 👨🏻‍💻 Studying Computer Engineering at the [University of Guadalajara](https://www.udg.mx/), México.
+![rincondeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=rincondeveloper&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
